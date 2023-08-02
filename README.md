@@ -20,8 +20,4 @@ Neste repositório, você encontrará uma variedade de tópicos relacionados ao 
 
 - **Resolução de Sistemas Lineares:** Algoritmos para resolver sistemas de equações lineares, incluindo Eliminação de Gauss, Decomposição LU e Métodos Iterativos.
 
-Além dos códigos aqui presentes, você pode encontrar recursos adicionais, como livros, artigos e tutoriais online, para aprofundar seu conhecimento em Cálculo Numérico. Consulte a seção de "Recursos" neste repositório para obter mais informações.
-
-Divirta-se explorando e aprendendo sobre Cálculo Numérico! Se tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir uma issue ou entrar em contato com os mantenedores do repositório.
-
 *A última atualização deste README foi em agosto de 2023.*
